@@ -1,5 +1,3 @@
-![We gif](https://crimson-phantom.ru/We.gif)
-
 # Привет! 👋 Меня зовут Denis Sharipov
 
 Я разработчик с опытом около 3 лет, занимаюсь разработкой на Unity, Android Studio и веб-сервисах. Также увлекаюсь 2D и 3D дизайном, что позволяет мне создавать уникальные и креативные проекты.
@@ -25,5 +23,5 @@
 ## Мои контакты:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_телеграм) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/ваш_номер) 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/ваш_дискорд) 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@balast228) 
 [![Портфолио](https://img.shields.io/badge/Портфолио-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://ваш-сайт-с-портфолио.com)
