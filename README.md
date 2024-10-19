@@ -45,18 +45,10 @@
         </a>
     </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <div style="border: 2px solid #FFD700; border-radius: 10px; padding: 10px; background-color: #1e1e1e; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);">
-        <img src="https://github-readme-stats.vercel.app/api?username=DenisKa2004&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border-radius: 10px;" />
-    </div>
+<h2></h2>
     <div style="border: 2px solid #FFD700; border-radius: 10px; padding: 10px; background-color: #1e1e1e; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisKa2004&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="border-radius: 10px;" />
     </div>
-</div>
-
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=DenisKa2004&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisKa2004&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 
 
