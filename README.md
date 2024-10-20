@@ -29,6 +29,11 @@
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/-Google Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud">
 </p>
+<h2></h2>
+    <div style="border: 2px solid #FFD700; border-radius: 10px; padding: 10px; background-color: #1e1e1e; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisKa2004&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="border-radius: 10px;" />
+    </div>
+</div>
     <h2>Мои контакты:</h2>
     <p>
         <a href="https://t.me/BaLastlll">
@@ -45,11 +50,7 @@
         </a>
     </p>
 
-<h2></h2>
-    <div style="border: 2px solid #FFD700; border-radius: 10px; padding: 10px; background-color: #1e1e1e; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisKa2004&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="border-radius: 10px;" />
-    </div>
-</div>
+
 
 
 
