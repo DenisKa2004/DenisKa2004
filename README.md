@@ -30,9 +30,44 @@
     <img src="https://img.shields.io/badge/-Google Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud">
 </p>
 <h2></h2>
-    <div style="border: 2px solid #FFD700; border-radius: 10px; padding: 10px; background-color: #1e1e1e; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisKa2004&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="border-radius: 10px;" />
-    </div>
+<div style="
+  border: 2px solid #FF6B6B;
+  border-radius: 16px;
+  padding: 20px;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  box-shadow: 0 10px 25px rgba(106, 27, 154, 0.5);
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  max-width: 600px;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+">
+
+  <div style="
+    position: absolute;
+    top: -50%; right: -50%;
+    width: 200%; height: 200%;
+    background: radial-gradient(circle, rgba(255,107,107,0.1) 0%, transparent 70%);
+    animation: rotate 20s linear infinite;
+    z-index: 0;
+  "></div>
+  
+  <div style="position: relative; z-index: 1;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisKa2004&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=FF6B6B&text_color=ffffff&icon_color=4ECDC4" 
+      alt="Top Languages"
+      style="
+        border-radius: 12px;
+        width: 100%;
+        transition: transform 0.3s ease;
+      "
+      onmouseover="this.style.transform='scale(1.02)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </div>
+</div>
+
+
 </div>
     <h2>Мои контакты:</h2>
     <p>
